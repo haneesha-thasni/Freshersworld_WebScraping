@@ -5,7 +5,11 @@
 
 ## Project Overview
 
-This project is a culmination of our studies in web scraping, where we were tasked with extracting and analyzing tech-related job postings from a job portal. The portal we selected was Freshersworld. Here's an outline of the project's workflow and outcomes:
+This project is a culmination of our studies in web scraping, where we were tasked with extracting and analyzing tech-related job postings from a job portal. 
+
+The portal we selected was Freshersworld. 
+
+Here's an outline of the project's workflow and outcomes:
 
 ## Objective
 
